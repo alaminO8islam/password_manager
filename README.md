@@ -52,9 +52,9 @@ password_manager/
 
 ## 🛠️ Tech Stack
 
-| Language | Framework | Encryption         | Hashing | Local Server    | IDE     |
-| -------- | --------- | ------------------ | ------- | --------------- | ------- |
-| Python   | Flask     | AES (cryptography) | bcrypt  | Flask localhost | VS Code |
+| Language | Framework | Encryption | Hashing | Local Server | IDE |
+|----------|-----------|------------|---------|---------------|-----|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![AES](https://img.shields.io/badge/AES--256-6e4cff?style=for-the-badge&logoColor=white) | ![bcrypt](https://img.shields.io/badge/bcrypt-ff8800?style=for-the-badge&logoColor=white) | ![Flask Localhost](https://img.shields.io/badge/Flask%20Server-005f99?style=for-the-badge&logo=flask&logoColor=white)<br>![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
