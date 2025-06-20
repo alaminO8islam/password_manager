@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% block content %}
+  <h2>{{ entry.site }}</h2>
+  <p><strong>Username:</strong> {{ entry.username }}</p>
+  <p><strong>Password:</strong> {{ decrypted }}</p>
+  <a href="{{ url_for('main.index') }}">Back</a>
+{% endblock %}

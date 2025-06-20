@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+  <a href="{{ url_for('main.add') }}">Add New</a>
+  <ul>
+    {% for item in items %}
+      <li>{{ item.site }} - {{ item.username }} 
+      <a href="{{ url_for('main.view', id=item.id) }}">View</a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}
